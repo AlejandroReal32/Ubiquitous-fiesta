@@ -1,2 +1,2 @@
 # SupremeWaddle
-Trabajos escolares y proyectos personales que  eh echo en le transcurso de mi vida como desarrollador. 
+School work and personal projects that I have done in the course of my life as a developer.. 
